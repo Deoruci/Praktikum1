@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>   
+    <title>TUGAS C </title>
+ </head>
+  <body>   
+    <p><h1><u>TUGAS PRAKTIKUM 1 </u></h1></p>
+  <p><i> Selamat Pagi, Siang, Sore Atau Malam Pak, Saya <a href="https://www.facebook.com/ruci.faiz.79/">Roetji Faiz Dzulfiqar</a></i></p>
+  <img alt="Logo PECEL +63" src="PECEL +63.jpg" height="200" />
+    <br> 
+    <p><h4><u>Untuk Memenuhi Nilai tugas Praktikum saya pak (Roetji Faiz Dzulfiqar) dan mohon maaf pak kalau baru mengumpulkan tanggal 19 Oktober 2022 :) </u></h4> </p>  
+<body>
+  <h2><u>Tugas nya Dari Bapak : </h2></u>   <ol type="a"  >
+        <li>6</li>  
+        <li>5</li>   
+        <li>4</li>  
+        <li>3</li>   
+        <li>2</li>
+        <li>1</li>
+    </ol>
+    <table border="1">     <tr>     
+        <td>NAMA</td>   
+        <td>NIM</td>    
+        <td>UMUR</td> 
+        <td>JABATAN DI KOMUNITAS PECEL+63</td>  
+        </tr>     <tr>    
+           <td>ROETJI FAIZ DZULFIQAR</td>    
+           <td>2005101049</td>      
+           <td>22Tahun</td>
+           <td>HUMAS</td>  
+           </tr>
+    </table>
+     <p><i>SEMOGA NILAI SAYA (A)</i></p>
+     </body>
+     </html>
